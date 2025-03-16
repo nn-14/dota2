@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+.nav {
+    display: flex;
+    font-size: large;
+}
+
+
+.on {
+    color: #fffbfb;
+    font-family: Impact, fantasy;
+    text-align: center;
+    
+}
+
+
+
+.prof {
+    color: #fffbfb;
+}
+
+table {
+    width: 2000px;
+    margin-left: 550px;
+
+}
